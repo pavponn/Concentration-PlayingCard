@@ -1,2 +1,2 @@
-# PlayingCard ver. 2
-Playing card demo written in Swift. Concentration game variation with animation.
+# Concentration: Playing card version
+Demo of Concentration game with playing cards written in Swift.
